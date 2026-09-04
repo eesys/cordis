@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('rewrite step 0: empty tree')\"",
+    "test": "node -e \"console.log('rewrite step 0: no tests')\"",
+    "lint": "node -e \"console.log('rewrite step 0: no lint')\"",
+    "test:json": "node -e \"console.log('rewrite step 0: no tests')\""
+  }
+}
